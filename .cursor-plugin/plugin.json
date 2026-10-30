@@ -1,0 +1,29 @@
+{
+  "name": "nourva-mind",
+  "displayName": "Nourva Mind",
+  "version": "1.0.0",
+  "description": "Your private memory across AI apps: recall what matters about you and continue your saved work, only when you ask.",
+  "author": {
+    "name": "Nourva",
+    "email": "ai@nourva.ai"
+  },
+  "homepage": "https://nourva.ai/memory",
+  "repository": "https://github.com/Nourva/nourva-mind-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "nourva",
+    "memory",
+    "context",
+    "personal-memory",
+    "work-journal",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "memory",
+    "productivity",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}
