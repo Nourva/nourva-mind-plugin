@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nourva-mind": {
+      "type": "http",
+      "url": "https://nourva.ai/m/v1/mcp"
+    }
+  }
+}
